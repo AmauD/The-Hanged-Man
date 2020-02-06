@@ -18,4 +18,4 @@ Never give up
 
 
 
-<img src="https://media.giphy.com/media/QNWKbJNASBum8G54t6/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/QNWKbJNASBum8G54t6/giphy.gif" width="250" height="250" />
