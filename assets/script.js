@@ -36,7 +36,14 @@ document.getElementById("run").addEventListener("click", () => {
           count
       );
     } else {
-      alert("Congrats, you found the word " + givenWord + " correctly!");
+      alert(
+        "Congrats, you found the word " +
+          givenWord +
+          " correctly!" +
+          " You win in " +
+          count +
+          " trials"
+      );
     }
     console.log(guessedWord);
     console.log(guess);

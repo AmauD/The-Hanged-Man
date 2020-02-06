@@ -1,8 +1,11 @@
 body {
-  background-color: rgb(181, 181, 255);
+  background-color: #b5b5ff;
   text-align: center;
   padding-top: 200px;
   h1 {
     color: grayscale($color: #313131);
+  }
+  button {
+    background-color: #b5b5ff;
   }
 }
