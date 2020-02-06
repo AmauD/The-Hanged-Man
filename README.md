@@ -13,7 +13,7 @@ Find the good letters for guessing the word
 
 ### Third Step
 
-Never give up
+Be persistent
 
 
 
